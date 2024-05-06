@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+old_tables.py
+old_fill_data.py
+old_connection.py
+create_tables.py

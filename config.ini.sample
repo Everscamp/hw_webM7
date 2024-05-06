@@ -1,0 +1,6 @@
+[DEV_DB]
+USER=postgres
+PASSWORD=0000
+DB_NAME=test
+DOMAIN=localhost
+PORT=5432
